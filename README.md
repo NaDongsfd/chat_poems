@@ -31,4 +31,8 @@ we ran it with question:“写一篇柳永风格的古诗？”
    # RAG
    python poems_ui.py
    ```
+![image](https://github.com/NaDongsfd/chat_poems/assets/151747765/5ec015c9-36c0-4e76-b0bb-881a6a4bca63)
+
+![image](https://github.com/NaDongsfd/chat_poems/assets/151747765/d8c7f7f3-586c-40e5-8165-2b66211205d9)
+
 
