@@ -1,0 +1,6 @@
+mindspore
+mindnlp
+ms2vec
+loguru
+msimilarities
+jieba
